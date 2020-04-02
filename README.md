@@ -1,1 +1,2 @@
-# code_academy_data_science
+# Codeacademy Data Science Career Path
+
